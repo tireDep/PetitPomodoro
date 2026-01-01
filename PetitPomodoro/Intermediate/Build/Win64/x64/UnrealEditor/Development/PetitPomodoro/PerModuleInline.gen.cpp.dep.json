@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\study\\petitpomodoro\\petitpomodoro\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\petitpomodoro\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\study\\petitpomodoro\\petitpomodoro\\intermediate\\build\\win64\\x64\\petitpomodoroeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\study\\petitpomodoro\\petitpomodoro\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\petitpomodoro\\definitions.petitpomodoro.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

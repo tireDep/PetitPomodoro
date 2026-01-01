@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Study\\PetitPomodoro\\PetitPomodoro\\Source\\PetitPomodoro\\PetitPomodoro.Build.cs",
+		"D:\\Study\\PetitPomodoro\\PetitPomodoro\\Source\\PetitPomodoro.Target.cs",
+		"D:\\Study\\PetitPomodoro\\PetitPomodoro\\Source\\PetitPomodoroEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

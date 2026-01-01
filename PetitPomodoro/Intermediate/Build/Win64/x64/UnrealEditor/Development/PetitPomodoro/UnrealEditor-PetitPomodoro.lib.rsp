@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PetitPomodoro.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Study\PetitPomodoro\PetitPomodoro\Intermediate\Build\Win64\x64\PetitPomodoroEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Study\PetitPomodoro\PetitPomodoro\Intermediate\Build\Win64\x64\UnrealEditor\Development\PetitPomodoro\PetitPomodoro.cpp.obj"
+"D:\Study\PetitPomodoro\PetitPomodoro\Intermediate\Build\Win64\x64\UnrealEditor\Development\PetitPomodoro\PerModuleInline.gen.cpp.obj"
+"D:\Study\PetitPomodoro\PetitPomodoro\Intermediate\Build\Win64\x64\UnrealEditor\Development\PetitPomodoro\Default.rc2.res"
+/OUT:"D:\Study\PetitPomodoro\PetitPomodoro\Intermediate\Build\Win64\x64\UnrealEditor\Development\PetitPomodoro\UnrealEditor-PetitPomodoro.lib"

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\study\\petitpomodoro\\petitpomodoro\\source\\petitpomodoro\\petitpomodoro.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\study\\petitpomodoro\\petitpomodoro\\intermediate\\build\\win64\\x64\\petitpomodoroeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\study\\petitpomodoro\\petitpomodoro\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\petitpomodoro\\definitions.petitpomodoro.h",
+            "d:\\study\\petitpomodoro\\petitpomodoro\\source\\petitpomodoro\\petitpomodoro.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

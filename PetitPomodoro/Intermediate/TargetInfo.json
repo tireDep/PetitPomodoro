@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PetitPomodoro",
+			"Path": "..\\Source\\PetitPomodoro.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PetitPomodoroEditor",
+			"Path": "..\\Source\\PetitPomodoroEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
